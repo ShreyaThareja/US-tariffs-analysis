@@ -16,7 +16,6 @@ It combines exploratory data analysis, causal inference, and forecasting models,
 ## 🔧 Tools & Technologies
 - Python (Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, Statsmodels)  
 - Jupyter Notebook  
-- Power BI (for dashboard and visualization)  
 - GitHub (for version control and collaboration)  
 
 ## 📊 Methodology
@@ -30,9 +29,6 @@ It combines exploratory data analysis, causal inference, and forecasting models,
 - Tariff increases were associated with reduced imports in affected categories.  
 - Some tariffs contributed to higher consumer prices, suggesting partial pass-through.  
 - Forecast models show potential risk of inflationary pressure under continued tariff policies.  
-
-## 📈 Dashboard
-👉 *(Upload Power BI `.pbix` file here once ready, and add screenshots)*  
 
 ## 📜 License
 MIT License – free to use and share with attribution.  
